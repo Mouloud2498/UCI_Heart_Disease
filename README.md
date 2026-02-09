@@ -115,5 +115,5 @@ Ajoute 2–3 images dans `assets/` et affiche-les ici :
 
 Exemple :
 ```md
-![Pipeline](assets/pipeline.png)
+![Schema general](pretraitement_heart_disease.png)
 ![Résultats](assets/results.png)
