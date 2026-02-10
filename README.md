@@ -109,7 +109,7 @@ Accuracy obtenue :
 ## 🖼️ Visuels / Captures (à ajouter)
 Ajoute 2–3 images dans `assets/` et affiche-les ici :
 
-- `assets/pipeline.png` (schéma pipeline)
+- `pretraitement_heart_disease.png` (schéma pipeline)
 - `assets/results.png` (comparaison Standard vs Robust)
 - `assets/eda.png` (optionnel : aperçu variables/outliers)
 
